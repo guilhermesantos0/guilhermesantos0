@@ -1,7 +1,3 @@
-# aboutme
-A little bit about me!
-
-
 ### Olá eu sou o Guilherme
 
 🎮・ I am currently programming for <strong>FiveM</strong> and <strong>Bots</strong> for discord;<br>
@@ -26,3 +22,8 @@ A little bit about me!
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python logo">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo">
 </div>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesantos0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesantos0&layout=compact&langs_count=16&theme=midnight-purple">
+</div><br>

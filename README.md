@@ -3,7 +3,7 @@
 🎮・ I am currently programming for <strong>FiveM</strong> and <strong>Bots</strong> for discord;<br>
 🎶・ I like to listen to <strong>Eletronic Musics</strong> while I program;<br>
 💬・ I can speak <strong>Portuguese</strong> and <strong>English</strong>;<br>
-💻・ I develop for <a href="https://discord.gg/CZaYaJGcMP"><strong>RKG Store</strong></a> and for <a href="https://discord.gg/furycity"><strong>Fury City</strong></a>;<br>
+💻・ I develop for <a href="https://dsc.gg/rkgstore"><strong>RKG Store</strong></a>;<br>
 
 ##
 

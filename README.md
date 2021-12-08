@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo">
 </div>
 
-###Spotify Playing
+<h2>Spotify Playing</h2><br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=guimacedo10-br&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <div>

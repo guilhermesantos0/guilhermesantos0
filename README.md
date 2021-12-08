@@ -6,6 +6,7 @@
 👑・ I am one of the CEO's of <a href="https://dsc.gg/rkgstore"><strong>RKG Store</strong></a>;<br>
 
 ##
+<img src="https://discord.c99.nl/widget/theme-2/673369105121804338.png">
 
 <div>
   <a href="https://dsc.gg/rkgstore" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>

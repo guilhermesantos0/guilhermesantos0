@@ -23,12 +23,11 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo">
 </div>
 
-<h2>Spotify Playing</h2><br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=guimacedo10-br&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesantos0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesantos0&layout=compact&langs_count=16&theme=midnight-purple">
 </div><br>
 
 ![Snake animation](https://github.com/guilhermesantos0/guilhermesantos0/blob/output/github-contribution-grid-snake.svg)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=guimacedo10-br&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)

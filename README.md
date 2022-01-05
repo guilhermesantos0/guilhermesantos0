@@ -1,9 +1,8 @@
 ### Olá eu sou o Guilherme
 
-🎮・ I am currently programming for <strong>FiveM</strong> and <strong>Bots</strong> for discord;<br>
+🎮・ I am currently programming <strong>Bots</strong> for discord and learning <strong>PHP</strong>;<br>
 🎶・ I like to listen to <strong>Eletronic Musics</strong> while I program;<br>
 💬・ I can speak <strong>Portuguese</strong> and <strong>English</strong>;<br>
-👑・ I am one of the CEO's of <a href="https://dsc.gg/rkgstore"><strong>RKG Store</strong></a>;<br>
 
 ##
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/673369105121804338.png"></p>

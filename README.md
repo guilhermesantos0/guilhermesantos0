@@ -1,5 +1,5 @@
 🎮・ I am currently programming <strong>Bots</strong> for discord;<br>
-🎶・ I like to listen to <strong>Eletronic Musics</strong> while I program (especialy <a href="https://open.spotify.com/playlist/2ENe1jhoSqeZYD3FK252A1?si=j9x2SBHHTNGylOG_1j9eFw&utm_source=copy-link">this playlist</a>;<br>
+🎶・ I like to listen to <strong>Eletronic Musics</strong> while I program (especialy <a href="https://open.spotify.com/playlist/2ENe1jhoSqeZYD3FK252A1?si=j9x2SBHHTNGylOG_1j9eFw&utm_source=copy-link">this playlist</a>);<br>
 💬・ I can speak <strong>Portuguese</strong> and <strong>English</strong>;<br>
 ✏️・ Studying to be a Full-Stack developer!
 
